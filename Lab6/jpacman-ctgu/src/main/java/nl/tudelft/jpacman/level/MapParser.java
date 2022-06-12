@@ -252,10 +252,4 @@ public class MapParser {
         }
     }
 
-    /**
-     * @return the BoardCreator
-     */
-    protected BoardFactory getBoardCreator() {
-        return boardCreator;
-    }
 }
